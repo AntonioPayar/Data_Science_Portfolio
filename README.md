@@ -9,6 +9,14 @@
   - DC_GAN Caras One Piece
 - Reinforcement Learning
   - Deep_Q_Network Invertir Bolsa
+
+## Series del Tiempo
+#### Para mi trabajo de fin de grado, opté por explorar los modelos relacionados Reinforcement Learning junto con Imitation Learning.
+#### Para este proyecto, trabajé con series de tiempo utilizando imágenes. Tuve que optimizar al máximo el modelo de regresión y su capacidad, dadas las limitaciones técnicas que tenía para entrenar el modelo.
+#### El notebook que he subido contiene las pruebas de optimización y desarrollo realizadas antes de entrenar el modelo con el dataset completo.
+
+![imagen](https://github.com/AntonioPayar/Data_Science_Portfolio/assets/63736456/b9c585a1-1e50-4d1c-97c5-cd7bf697b278)
+
  
 ## Reinforcement Learning
 #### Este proyecto comenzó como una práctica en la que teníamos que implementar de forma básica la estructura de algo similar a un modelo de Deep Q-Network (DQN).
